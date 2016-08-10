@@ -1,0 +1,24 @@
+{
+  "name": "pagedown",
+  "description": "markdown converter, based on showdown",
+  "main": "node-pagedown.js",
+  "authors": [
+    "khiemtong <tong.khiem@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "markdown"
+  ],
+  "homepage": "https://github.com/khiemtong/pagedown",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  }
+}
